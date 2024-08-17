@@ -1,0 +1,79 @@
+body{
+    font-family: "Raleway", sans-serif;
+    background-color: #f1f1f1;
+    
+}
+
+.text-title{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 36px;
+    font-weight: 250;
+    font-weight: bolder;
+}
+.text-title p{
+
+}
+.intro-web{
+    font-size: 16px;
+    text-align: center;
+}
+.style-intro{
+    background-color: black;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.woods-img{
+    width: 100%;
+
+
+}
+.main-web{
+    margin-left: 35px;
+    margin-top: 50px;
+    width: 940px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+}
+.heading{
+    font-size: 24px;
+    padding-left: 15px;
+}
+.date-description{
+    color: #949393;
+}
+.description{
+    font-size: 17px;
+    padding-left: 17px;
+    font-weight: 400;
+}
+.comment-disc{
+    font-size: 15px;
+    padding-left: 20px;
+    line-height: 1.5;
+}
+.button-read{
+margin-top: 25px;
+width: 150px;
+height: 50px;
+margin-left: 25px;
+font-size: 15px;
+border : 1px solid rgb(154, 137, 137) !important ;
+background-color: white;
+
+}
+.button-read:hover{
+    background-color: #ccc;
+    
+}
+.comment-place{
+    padding-left: 810px;
+    margin-bottom: 250px;
+}
+.test-sina{
+margin-left: 850px;
+
+}
